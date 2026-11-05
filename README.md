@@ -14,7 +14,7 @@
 
 ## Tentang Saya
 
-Saya lulusan S1 Statistika Universitas Airlangga (2024) dengan minat kuat pada analisis runtun waktu, pemodelan prediktif, dan penerjemahan hasil statistik menjadi keputusan bisnis. Skripsi saya membandingkan model ARIMA dan Support Vector Regression untuk memprediksi kurs Rupiah terhadap Dolar AS, dan saya mengembangkannya lebih lanjut menjadi proyek portofolio lengkap di bawah. Saya terbiasa bekerja dengan Python dan R dari pembersihan data, uji hipotesis, sampai dashboard. Saat ini saya terbuka untuk posisi **Data Analyst, Data Scientist, Statistician, atau Analis Risiko / Quality Control**.
+Saya lulusan S1 Statistika Universitas Airlangga (2024) dengan minat kuat pada analisis runtun waktu, pemodelan prediktif, dan penerjemahan hasil statistik menjadi keputusan bisnis. Skripsi saya membandingkan model ARIMA dan Support Vector Regression untuk memprediksi kurs Rupiah terhadap Dolar AS, dan saya mengembangkannya lebih lanjut menjadi proyek portofolio lengkap di bawah. Saya terbiasa bekerja dengan Python, R, dan Excel dari pembersihan data, uji hipotesis, penggajian dan rekap HR, sampai dashboard. Saat ini saya terbuka untuk posisi **Data Analyst, Data Scientist, Statistician, Analis Risiko / Quality Control, serta HR Analyst / Human Capital dan Administrasi**.
 
 ## Keahlian
 
@@ -34,6 +34,7 @@ Saya lulusan S1 Statistika Universitas Airlangga (2024) dengan minat kuat pada a
 | **Peramalan Kurs Rupiah: ARIMA vs SVR** | Implementasi ulang skripsi secara profesional: Box-Cox, ARIMA, SVR dengan grid search, uji Diebold-Mariano, plus modul Value at Risk dan aplikasi Streamlit. | Python, statsmodels, scikit-learn, Streamlit | [forecast-kurs-rupiah-arima-svr](https://github.com/imman20/forecast-kurs-rupiah-arima-svr) | [Laporan analisis](https://github.com/imman20/forecast-kurs-rupiah-arima-svr/blob/main/reports/laporan_analisis.md) |
 | **Analisis Penjualan Retail: SQL dan Dashboard** | Pipeline dari data mentah ke star schema SQLite, 12+ query analitis, segmentasi RFM, uji A/B promosi, dan dashboard interaktif. | SQL, Python, Plotly, Streamlit, Power BI | [analisis-penjualan-retail-sql-powerbi](https://github.com/imman20/analisis-penjualan-retail-sql-powerbi) | [Ringkasan eksekutif](https://github.com/imman20/analisis-penjualan-retail-sql-powerbi/blob/main/reports/ringkasan_eksekutif.md) |
 | **Analisis Survei, Desain Eksperimen, dan SPC di R** | Validitas dan reliabilitas survei, analisis faktor, regresi logistik ordinal, ANOVA dua arah dengan Tukey, peta kendali X-bar/R/p, dan kapabilitas proses. | R, tidyverse, psych, car, R Markdown | [analisis-survei-dan-eksperimen-r](https://github.com/imman20/analisis-survei-dan-eksperimen-r) | [Laporan HTML](https://github.com/imman20/analisis-survei-dan-eksperimen-r/tree/main/reports) |
+| **Portofolio Excel HR dan Administrasi** | 10 proyek Excel bertingkat (pemula sampai lanjut): database karyawan, absensi, penggajian dan slip gaji, cuti, rekrutmen, KPI, HR dashboard, analisis survei, workforce planning dengan What-If dan VBA. Setiap proyek disertai tutorial langkah demi langkah. | Excel (XLOOKUP, SUMIFS, PivotTable, Power Query, What-If, VBA) | [portofolio-excel-hr-administrasi](https://github.com/imman20/portofolio-excel-hr-administrasi) | [Peta belajar](https://github.com/imman20/portofolio-excel-hr-administrasi#peta-belajar) |
 
 ## Statistik GitHub
 
