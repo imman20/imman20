@@ -1,45 +1,46 @@
 # Immantaka Juniarsa
 
-Lulusan S1 Statistika Universitas Airlangga (2024). Saya bekerja dengan data dari tahap mentah sampai keputusan: membersihkan data, memilih metode statistik yang tepat, memeriksa hasilnya, lalu menyajikannya dalam laporan atau dashboard yang bisa dipakai orang lain.
+**Data Analyst · S1 Statistika Universitas Airlangga** — Surabaya, Indonesia
 
-Saat ini saya mencari posisi **Data Analyst, Data Scientist, Statistician, Risk/Quality Analyst, atau HR Analyst**.
+Saya mengubah data mentah menjadi laporan dan dashboard yang dipakai untuk mengambil keputusan. Sejak 2022 saya membantu Dinas Pendidikan Provinsi Jawa Timur mengolah data dari 38 kabupaten/kota, dan sejak 2021 saya menjalankan toko online sendiri (rating 4,9/5 dari 10.400+ penilaian), sehingga saya terbiasa melihat data dari sisi bisnis, bukan hanya dari sisi angka.
+
+🔎 **Sedang mencari:** Data Analyst · Business Intelligence Analyst · Sales / Operations Analyst · Demand Planner — Surabaya, Sidoarjo, Gresik, atau remote.
 
 [![Portofolio](https://img.shields.io/badge/Portofolio-imman20.github.io-1F3A4D?style=flat&logo=githubpages&logoColor=white)](https://imman20.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Immantaka%20Juniarsa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immantaka-juniarsa-8698b9183)
 [![Email](https://img.shields.io/badge/Email-immantakajuniarsa30%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:immantakajuniarsa30@gmail.com)
 
-## Proyek
+## Proyek unggulan
 
-| Proyek | Yang saya kerjakan | Hasil |
+| Proyek | Pertanyaan bisnis | Hasil utama |
 |---|---|---|
-| [Peramalan kurs Rupiah: ARIMA vs SVR](https://github.com/imman20/forecast-kurs-rupiah-arima-svr) | Implementasi ulang skripsi dalam Python: Box-Cox, seleksi ARIMA, SVR dengan validasi silang runtun waktu, uji Diebold-Mariano, Value at Risk, dan aplikasi Streamlit | SVR RBF MAPE 0,51 % vs ARIMA 2,47 % pada 21 minggu uji; selisihnya signifikan (DM p = 0,0002) |
-| [Analisis penjualan retail: SQL dan dashboard](https://github.com/imman20/analisis-penjualan-retail-sql-powerbi) | Pipeline 1 juta baris data UCI Online Retail II ke star schema SQLite, 15 query SQL, segmentasi RFM, uji A/B, dashboard Streamlit | 21,9 % produk menghasilkan 80 % pendapatan; segmen Champions (22 % pelanggan) menyumbang 69 % pendapatan |
-| [Survei, desain eksperimen, dan SPC dengan R](https://github.com/imman20/analisis-survei-dan-eksperimen-r) | Reliabilitas dan analisis faktor kuesioner, regresi logistik ordinal, ANOVA faktorial dengan Tukey, peta kendali dan kapabilitas proses | Interaksi suhu × bahan signifikan (p = 0,008); proses terkendali tetapi kapabilitas marginal (Cpk 1,07) |
-| [HR attrition analytics](https://github.com/imman20/hr-attrition-analytics) | Simulasi kohor 1.500 karyawan, metrik turnover, survival analysis (Kaplan-Meier, Cox), model risiko keluar 12 bulan, dan dashboard Streamlit, dengan catatan etika penggunaan | Masa bertahan berbeda signifikan menurut tingkat lembur dan departemen (log-rank p < 0,001); model logistik AUC 0,69 pada data uji tahun berikutnya |
-| [Credit risk scorecard](https://github.com/imman20/credit-risk-scorecard) | Data UCI German Credit: WoE dan Information Value, regresi logistik, scorecard poin, pembanding gradient boosting, cutoff berbasis biaya, PSI, dan pemeriksaan fairness | AUC scorecard 0,765 dan KS 0,48 pada data uji; cutoff berbasis biaya menyetujui 37,5 % pemohon |
-| [Pemodelan klaim asuransi kendaraan](https://github.com/imman20/pemodelan-klaim-asuransi-glm) | Data freMTPL2 (678.013 polis): GLM Poisson dan Negative Binomial untuk frekuensi, GLM Gamma untuk severitas, premi murni, relativitas tarif, lift dan double lift | Overdispersi terdeteksi (rasio dispersi 2,87); prediksi jumlah klaim uji 96 % dari aktual, sedangkan model severitas masih overestimasi biaya |
-| [Portofolio Excel: belajar, analisis, dan HR](https://github.com/imman20/portofolio-excel-hr-administrasi) | 15 modul Excel dari dasar sampai praktik kerja, 3 proyek analisis (penjualan, survei, inventori), dan 10 proyek HR/administrasi | 47 workbook dengan 327.539 rumus hidup, 0 error setelah recalculation, dan rekonsiliasi terhadap Python |
+| [Analisis penjualan retail: SQL, RFM, dashboard](https://github.com/imman20/analisis-penjualan-retail-sql-powerbi) | Produk dan pelanggan mana yang benar-benar menghasilkan pendapatan? | 21,9 % produk menghasilkan 80 % pendapatan; 22 % pelanggan (Champions) menyumbang 69 % pendapatan |
+| [Peramalan kurs Rupiah: ARIMA vs SVR](https://github.com/imman20/forecast-kurs-rupiah-arima-svr) | Model mana yang lebih akurat untuk forecasting mingguan? (pengembangan skripsi) | SVR MAPE 0,51 % vs ARIMA 2,47 %; selisih signifikan (uji Diebold-Mariano p = 0,0002) |
+| [Survei, desain eksperimen, dan SPC dengan R](https://github.com/imman20/analisis-survei-dan-eksperimen-r) | Apakah kuesioner andal dan apakah proses produksi terkendali? | Proses terkendali tetapi kapabilitas marginal (Cpk 1,07); interaksi suhu × bahan signifikan |
+| [Portofolio Excel: penjualan, inventori, administrasi](https://github.com/imman20/portofolio-excel-hr-administrasi) | Bagaimana menyusun laporan Excel yang rapi, terverifikasi, dan siap dipakai? | 13 proyek dengan dashboard, Power Query, dan pemeriksaan rekonsiliasi |
 
-Semua proyek dapat dijalankan ulang dari awal. Setiap repositori menyertakan data atau skrip pembangkit data, dokumentasi metode, tes atau lembar pemeriksaan, serta catatan keterbatasan. Data sintetis selalu diberi label sebagai simulasi.
+<!-- Ganti / tambahkan baris di atas begitu proyek baru selesai (forecast permintaan & inventory, harga pangan Jatim). -->
 
 ## Keahlian
 
-| Bidang | Tools dan metode |
-|---|---|
-| Bahasa | Python, R, SQL |
-| Statistika | Uji hipotesis, regresi, ANOVA dan desain eksperimen, analisis faktor, reliabilitas, runtun waktu (ARIMA), survival analysis, GLM (Poisson, Negative Binomial, Gamma), credit scoring, statistical process control |
-| Machine learning | scikit-learn, Support Vector Regression, gradient boosting, KMeans, validasi silang |
-| Olah data | pandas, tidyverse, SQLite, Excel (Power Query, PivotTable, SUMIFS, INDEX-MATCH) |
-| Visualisasi dan BI | matplotlib, ggplot2, Plotly, Streamlit, Power BI, Tableau, dashboard Excel |
-| Software statistik | SPSS, Minitab |
-| Praktik kerja | Git, GitHub Actions, pytest, testthat, R Markdown, Jupyter |
+- **Analisis & statistik:** statistik deskriptif dan inferensial, uji hipotesis, regresi, forecasting time series (ARIMA, SVR), ANOVA, statistical process control, desain survei
+- **Tools:** Excel (PivotTable, XLOOKUP, Power Query) · Power BI · Tableau · SQL · Python (pandas, scikit-learn) · R · SPSS · Minitab · ArcGIS
+- **Cara kerja:** data dibersihkan dan divalidasi dulu, metode dipilih sesuai pertanyaan, hasil dicek ulang, lalu disajikan dalam bahasa yang dipahami pengambil keputusan
+
+## Pengalaman singkat
+
+- **Analis Data (Tenaga Lepas), Dinas Pendidikan Provinsi Jawa Timur** — 2022–sekarang
+- **Pemilik toko online SerbaSerbi.StoreSby (Shopee)** — 2021–sekarang
+- **Studi Independen Data Science, Hacktiv8 (Kampus Merdeka)** — 2023
 
 ## Pendidikan
 
-**S1 Statistika, Universitas Airlangga** (2024)
+**S1 Statistika, Universitas Airlangga (2024).** Skripsi: *Perbandingan Model ARIMA dan SVR untuk Prediksi Nilai Tukar Rupiah terhadap Dolar AS* — kode R asli ada di [skripsi-arima-svr-r](https://github.com/imman20/skripsi-arima-svr-r), versi Python yang dikembangkan ada di [forecast-kurs-rupiah-arima-svr](https://github.com/imman20/forecast-kurs-rupiah-arima-svr).
 
-Skripsi: *Perbandingan Model Autoregressive Integrated Moving Average (ARIMA) dan Support Vector Regression (SVR) untuk Prediksi Nilai Tukar Rupiah terhadap Dolar AS.* Dengan 105 data mingguan (Oktober 2021 sampai Oktober 2023), model terbaik ARIMA (0,2,1) menghasilkan MAPE 2,49 %, sedangkan SVR kernel RBF dengan tuning hyperparameter menghasilkan MAPE 0,54 %. Versi Python beserta pengembangannya ada di repositori [forecast-kurs-rupiah-arima-svr](https://github.com/imman20/forecast-kurs-rupiah-arima-svr).
+<details>
+<summary>Latihan metode statistik lainnya (data publik)</summary>
 
-## Kontak
-
-- Email: [immantakajuniarsa30@gmail.com](mailto:immantakajuniarsa30@gmail.com)
-- Situs portofolio: [imman20.github.io](https://imman20.github.io/)
+- [HR attrition analytics](https://github.com/imman20/hr-attrition-analytics) — survival analysis (Kaplan-Meier, Cox) pada data simulasi
+- [Pemodelan GLM pada data klaim publik](https://github.com/imman20/pemodelan-klaim-asuransi-glm) — latihan GLM Poisson, Negative Binomial, Gamma
+- [Scorecard regresi logistik](https://github.com/imman20/credit-risk-scorecard) — latihan WoE dan regresi logistik pada dataset publik UCI
+</details>
