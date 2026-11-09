@@ -35,7 +35,7 @@ Saya mengubah data mentah menjadi laporan dan dashboard yang dipakai untuk menga
 
 ## Pendidikan
 
-**S1 Statistika, Universitas Airlangga (2024).** Skripsi: *Perbandingan Model ARIMA dan SVR untuk Prediksi Nilai Tukar Rupiah terhadap Dolar AS* — kode R asli ada di [R-Studio](https://github.com/imman20/R-Studio), versi Python yang dikembangkan ada di [forecast-kurs-rupiah-arima-svr](https://github.com/imman20/forecast-kurs-rupiah-arima-svr).
+**S1 Statistika, Universitas Airlangga (2024).** Skripsi: *Perbandingan Model ARIMA dan SVR untuk Prediksi Nilai Tukar Rupiah terhadap Dolar AS* — kode R asli ada di [skripsi-arima-svr-r](https://github.com/imman20/skripsi-arima-svr-r), versi Python yang dikembangkan ada di [forecast-kurs-rupiah-arima-svr](https://github.com/imman20/forecast-kurs-rupiah-arima-svr).
 
 <details>
 <summary>Latihan metode statistik lainnya (data publik)</summary>
